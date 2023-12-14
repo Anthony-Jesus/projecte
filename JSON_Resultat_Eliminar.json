@@ -1,0 +1,107 @@
+{
+    "0": {
+        "codi": "1",
+        "Nom": "The Legend of Zelda: Breath of the Wild",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2017-03-03"
+    },
+    "1": {
+        "codi": "2",
+        "Nom": "The Witcher 3: Wild Hunt",
+        "Desenvolupador": "CD Projekt Red",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2015-05-19"
+    },
+    "2": {
+        "codi": "",
+        "Nom": "Red Dead Redemption 2",
+        "Desenvolupador": "Rockstar Games",
+        "Plataforma": "PlayStation 4, Xbox One, PC",
+        "Llan\u00e7ament": "2018-10-26"
+    },
+    "3": {
+        "codi": "4",
+        "Nom": "Super Mario Odyssey",
+        "Desenvolupador": "Nintendo",
+        "Plataforma": "Nintendo Switch",
+        "Llan\u00e7ament": "2017-10-27"
+    },
+    "5": {
+        "codi": "6",
+        "Nom": "God of War",
+        "Desenvolupador": "Santa Monica Studio",
+        "Plataforma": "PlayStation 4, PlayStation 5",
+        "Llan\u00e7ament": "2018-04-20"
+    },
+    "6": {
+        "codi": "",
+        "Nom": "Horizon Zero Dawn",
+        "Desenvolupador": "Guerrilla Games",
+        "Plataforma": "PlayStation 4, PC",
+        "Llan\u00e7ament": "2017-02-28"
+    },
+    "7": {
+        "codi": "7",
+        "Nom": "The Elder Scrolls V: Skyrim",
+        "Desenvolupador": "Bethesda Game Studios",
+        "Plataforma": "PC, PlayStation 3, Xbox 360",
+        "Llan\u00e7ament": "2011-11-11"
+    },
+    "9": {
+        "codi": "",
+        "Nom": "Minecraft",
+        "Desenvolupador": "Mojang",
+        "Plataforma": "PC, PlayStation, Xbox, Switch, etc.",
+        "Llan\u00e7ament": "2011-11-18"
+    },
+    "13": {
+        "codi": "14",
+        "Nom": "Pok\u00e9mon FireRed \/ LeafGreen",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Game Boy Advance",
+        "Llan\u00e7ament": "2004-01-29"
+    },
+    "16": {
+        "codi": "17",
+        "Nom": "Call of Duty: Modern Warfare (2019)",
+        "Desenvolupador": "Infinity Ward",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2019-10-25"
+    },
+    "19": {
+        "codi": "20",
+        "Nom": "Death Stranding",
+        "Desenvolupador": "Kojima Productions",
+        "Plataforma": "PlayStation 4, PC",
+        "Llan\u00e7ament": "2019-11-08"
+    },
+    "20": {
+        "codi": "",
+        "Nom": "Stardew Valley",
+        "Desenvolupador": "ConcernedApe",
+        "Plataforma": "PC, PlayStation, Xbox, Switch, iOS, Android",
+        "Llan\u00e7ament": "2016-02-26"
+    },
+    "23": {
+        "codi": "24",
+        "Nom": "Sekiro: Shadows Die Twice",
+        "Desenvolupador": "FromSoftware",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "Llan\u00e7ament": "2019-03-22"
+    },
+    "27": {
+        "codi": "28",
+        "Nom": "Pok\u00e9mon Diamond\/Pearl",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Nintendo DS",
+        "Llan\u00e7ament": "2006-09-28"
+    },
+    "41": {
+        "codi": "42",
+        "Nom": "Pok\u00e9mon Black\/White",
+        "Desenvolupador": "Game Freak",
+        "Plataforma": "Nintendo DS",
+        "Llan\u00e7ament": "2010-03-04"
+    }
+}
